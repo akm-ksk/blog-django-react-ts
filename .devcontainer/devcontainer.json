@@ -1,0 +1,7 @@
+{
+  "name": "Django BlogApp",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "ms-python.python"
+  ]
+}
